@@ -1,5 +1,8 @@
 from argparse import ArgumentParser
 
+# TODO
+# from config import parse_args
+# print(parse_args())
 
 def parse_args() -> ArgumentParser:
     main_parser = ArgumentParser()
